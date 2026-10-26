@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.source
+.env.target
+.env.*.local
+data/
+logs/
+*.log
+.DS_Store
+.env*.bak*
+ctclone.config.json
